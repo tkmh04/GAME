@@ -4,12 +4,12 @@
 
 ### 🔹 Chức năng bắt buộc:
 * ✔ **Vào game:** Nhập tên (không trùng, chỉ tồn tại khi online). 
-* ✔ **Ghép ngẫu nhiên:** Tự động ghép 2 người vào phòng và chơi khi cả hai sẵn sàng. `0đ`
-* ✔ **Đặt tàu:** Tự đặt 5 tàu (ngang/dọc) hoặc ngẫu nhiên, không chồng lấn. `1đ`
+* ✔ **Ghép ngẫu nhiên:** Tự động ghép 2 người vào phòng và chơi khi cả hai sẵn sàng.
+* ✔ **Đặt tàu:** Tự đặt 5 tàu (ngang/dọc) hoặc ngẫu nhiên, không chồng lấn.
 * ✔ **Màn hình chơi:** * Hiển thị bảng log (vị trí, trạng thái trúng/trượt).
     * Lưới 10x10 người chơi & lưới 10x10 đối thủ.
     * Thông báo thắng/thua. `0đ`
-* ✔ **Chat:** Nhắn tin đơn giản giữa người chơi trong ván chơi. `0.5đ`
+* ✔ **Chat:** Nhắn tin đơn giản giữa người chơi trong ván chơi.
 * ✔ **Xem trạng thái:** Xem phòng đang đấu bất kỳ, xem số người online.
 
 ### 🔸 Chức năng không bắt buộc:
