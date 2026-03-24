@@ -38,3 +38,4 @@
  * Administrative, bấm vào Change system locale
  * Tích vào ô chọn: “Beta: Use Unicode UTF-8 for worldwide language support”
  
+# Cấu hình JDK21
